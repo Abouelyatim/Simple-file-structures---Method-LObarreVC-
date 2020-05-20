@@ -1,0 +1,242 @@
+potition dans le bloc: 0
+num du bloc: 1
+1--
+Matricule: 572477
+
+Date_Naissance: 19990820
+
+Nom: DJEYZXPBUXZY
+
+Prenom: GTGATZLVNJWGPGKYJPWILKP
+
+Wilaya: Mascara
+
+Force_Armée: Gendarmerie_nationale
+
+Grade: Adjudant-chef
+
+Région_militaire: 4RM-Ouargla
+
+Groupe_Sanguin: A+
+
+_____________________________________________
+potition dans le bloc: 128
+num du bloc: 1
+2--
+Matricule: 716224
+
+Date_Naissance: 19461128
+
+Nom: HIDBEZIFAEBZ
+
+Prenom: FRUYXBUK
+
+Wilaya: Setif
+
+Force_Armée: Gendarmerie_nationale
+
+Grade: Sous-lieutenant
+
+Région_militaire: 5RM-Constantine
+
+Groupe_Sanguin: A-
+
+_____________________________________________
+potition dans le bloc: 245
+num du bloc: 1
+3--
+Matricule: 493861
+
+Date_Naissance: 19541106
+
+Nom: BYKPTIIK
+
+Prenom: FKJCNDAE
+
+Wilaya: Oran
+
+Force_Armée: Marine_nationale
+
+Grade: General-Major
+
+Région_militaire: 5RM-Constantine
+
+Groupe_Sanguin: A-
+
+_____________________________________________
+potition dans le bloc: 350
+num du bloc: 1
+4--
+Matricule: 972749
+
+Date_Naissance: 19650531
+
+Nom: MSXUM
+
+Prenom: RVEXRYLBAGAHHGGUIMFCEWKTFLEWGP
+
+Wilaya: Oum El_Bouaghi
+
+Force_Armée: Armee_de_l_air
+
+Grade: Adjudant-chef
+
+Région_militaire: 5RM-Constantine
+
+Groupe_Sanguin: O-
+
+_____________________________________________
+potition dans le bloc: 482
+num du bloc: 1
+5--
+Matricule: 846920
+
+Date_Naissance: 19860425
+
+Nom: THZIXMBZDK
+
+Prenom: WMIMHIXKFKRW
+
+Wilaya: Naama
+
+Force_Armée: Defense_aerienne_du_territoire
+
+Grade: Sergentchef
+
+Région_militaire: 5RM-Constantine
+
+Groupe_Sanguin: B-
+
+_____________________________________________
+potition dans le bloc: 606
+num du bloc: 1
+6--
+Matricule: 610452
+
+Date_Naissance: 19720108
+
+Nom: OVPKMLWFXIKMFIYRUUZMKLYWL
+
+Prenom: KXZGCAMEWZ
+
+Wilaya: Oum El_Bouaghi
+
+Force_Armée: Sante_militaire
+
+Grade: General-Major
+
+Région_militaire: 2RM-Oran
+
+Groupe_Sanguin: B-
+
+_____________________________________________
+potition dans le bloc: 732
+num du bloc: 1
+7--
+Matricule: 410843
+
+Date_Naissance: 19650112
+
+Nom: DDYWMRZREDVEMCDP
+
+Prenom: ANWBGOGFHIOBM
+
+Wilaya: Bordj Bou_Arreridj
+
+Force_Armée: Defense_aerienne_du_territoire
+
+Grade: General_de_corps_d_armee
+
+Région_militaire: 5RM-Constantine
+
+Groupe_Sanguin: O-
+
+_____________________________________________
+potition dans le bloc: 889
+num du bloc: 1
+8--
+Matricule: 602051
+
+Date_Naissance: 19421024
+
+Nom: KLMJXAHHGLXZRAXJNKDKTVK
+
+Prenom: WAMNLFKSNBIILIXBSVEFFBWEMD
+
+Wilaya: Constantine
+
+Force_Armée: Armee_de_terre
+
+Grade: Adjudant
+
+Région_militaire: 1RM-Blida
+
+Groupe_Sanguin: A-
+
+_____________________________________________
+potition dans le bloc: -2
+num du bloc: 2
+9--
+Matricule: 306838
+
+Date_Naissance: 19940823
+
+Nom: JLZCPTYYLTLUDFDKTNUELRBIKG
+
+Prenom: LRFLHO
+
+Wilaya: Ain_Temouchent
+
+Force_Armée: Armee_de_terre
+
+Grade: Adjudant-chef
+
+Région_militaire: 5RM-Constantine
+
+Groupe_Sanguin: AB-
+
+_____________________________________________
+potition dans le bloc: 128
+num du bloc: 2
+10--
+Matricule: 846641
+
+Date_Naissance: 19660223
+
+Nom: VRWISLUHIDON
+
+Prenom: INARJJAJZRKEVGZDTHPBFAHPNG
+
+Wilaya: Chlef
+
+Force_Armée: Armee_de_l_air
+
+Grade: Djoundi
+
+Région_militaire: 2RM-Oran
+
+Groupe_Sanguin: A+
+
+_____________________________________________
+potition dans le bloc: 241
+num du bloc: 2
+11--
+Matricule: 972842
+
+Date_Naissance: 19950929
+
+Nom: CGPRVVVRZNLJKAVFTVRMDHMKSO
+
+Prenom: BVEXGBSBDPAHYJKCREMREPZMFDR
+
+Wilaya: Sidi_Bel_Abbas
+
+Force_Armée: Gendarmerie_nationale
+
+Grade: General_de_corps_d_armee
+
+Région_militaire: 1RM-Blida
+
+Groupe_Sanguin: AB+
+
+_____________________________________________

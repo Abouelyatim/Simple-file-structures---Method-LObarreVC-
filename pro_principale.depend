@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1515198277 source:d:\tp2 sfsd\chargement_init\bib.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	"conio.h"
+	"conio2.h"
+	"input.h"
+	"string++.h"
+	"bib_LLC.h"
+
+1515059504 d:\tp2 sfsd\chargement_init\bib.h
+
+1515198371 source:d:\tp2 sfsd\chargement_init\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	"conio.h"
+	"conio2.h"
+
+1441094276 source:d:\tp2 sfsd\chargement_init\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 d:\tp2 sfsd\chargement_init\conio2.h
+	<conio.h>
+	<windows.h>
+
+1441094114 d:\tp2 sfsd\chargement_init\conio.h
+	<_mingw.h>
+
+1515190266 d:\tp2 sfsd\chargement_init\input.h
+	<string.h>
+	"String++.h"
+
+1515083254 d:\tp2 sfsd\chargement_init\string++.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1491495514 source:d:\tp2 sfsd\chargement_init\bib_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515059828 d:\tp2 sfsd\chargement_init\bib_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515061722 d:\tp2 sfsd\chargement_init\bib_llc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1441094276 source:d:\tp2 sfsd\pro_principale\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 d:\tp2 sfsd\pro_principale\conio2.h
+	<conio.h>
+	<windows.h>
+
+1515434725 source:d:\tp2 sfsd\pro_principale\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	"conio.h"
+	"conio2.h"
+
+1515059504 d:\tp2 sfsd\pro_principale\bib.h
+
+1441094114 d:\tp2 sfsd\pro_principale\conio.h
+	<_mingw.h>
+
+1515444475 source:d:\tp2 sfsd\pro_principale\bib.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	"conio.h"
+	"conio2.h"
+	"input.h"
+	"string++.h"
+	"bib_LLC.h"
+
+1515190266 d:\tp2 sfsd\pro_principale\input.h
+	<string.h>
+	"String++.h"
+
+1515083254 d:\tp2 sfsd\pro_principale\string++.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1515061722 d:\tp2 sfsd\pro_principale\bib_llc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
